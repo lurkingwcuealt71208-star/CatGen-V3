@@ -13,7 +13,7 @@ This README contains important information about running the game, system requir
 
 ## System Requirements
 
-- **Operating System:** Windows (Recommended)  
+- **Operating System:** Windows (Recommended)   
 - **Python:** Version 3.14 or higher (Ensure **“Add Python to PATH”** is checked during installation)  
 - **Zero-Setup:** The game automatically configures itself on first run  
 
