@@ -77,8 +77,10 @@ This README contains important information about running the game, system requir
 - Trade servers with rules and moderation  
 - NPC clan integration and clan division systems  
 - Book-based mode (Main Series mode and Realistic RP mode)  
-- Optional 17+ servers for mature audiences  
-- Anti-cheat protections  
+- Servers for age groups 5-12 and 13-15 and 15-17+ and 18+
+- Servers for specific Roleplay types (Kp, Rouge, Noncats)
+- Trade servers for sharing morphs
+- Full fledged online play with connecting to servers online from anywhere in the world
 
 ---
 
