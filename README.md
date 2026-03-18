@@ -7,12 +7,23 @@ A game I made about Warrior cats, You can chat, hunt prey and host lan servers f
 Ensure you have Python 3.14+ installed. 
 Make sure “Add Python to PATH” is checked.
 
+Here is a step-by-step guide on how to install Python:
+
+https://www.youtube.com/watch?v=YYXdXT2l-Gg
+
 ## 2. Run the Game:
   On Windows: Double-click run.bat
-    The game will automatically, This means it will:
-      Create a .venv (virtual environment) to keep your system clean
-      Install all required dependencies (e.g., pygame-ce)
-      Verify asset integrity and check for updates from GitHub
-      Launch the game immediately—no manual setup or command line required
+   
+   The game will automatically, 
+   
+   This means it will:
+      
+  Create a .venv (virtual environment) to keep your system clean
+      
+  Install all required dependencies (e.g., pygame-ce)
+      
+  Verify asset integrity and check for updates from GitHub
+      
+  Launch the game immediately—no manual setup or command line required
 
 !!! PLEASE NOTE: I PLAN TO STOP UPDATING THIS FEATURE AND SWITCH TO A ONLINE BASED SYSTEM AS UPDATING AND THINGS WILL BE EASIER. !!!
