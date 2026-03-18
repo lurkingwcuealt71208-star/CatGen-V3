@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg
 ## 2. Run the Game:
   After downloading double click on Launcher.py
    
-   The game will automatically, 
+   The game will automatically configure everything for you.
    
    This means it will:
       
