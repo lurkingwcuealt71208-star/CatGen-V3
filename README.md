@@ -12,7 +12,7 @@ Here is a step-by-step guide on how to install Python:
 https://www.youtube.com/watch?v=YYXdXT2l-Gg
 
 ## 2. Run the Game:
-  On Windows: Double-click run.bat
+  After downloading double click on Launcher.py
    
    The game will automatically, 
    
