@@ -1,2 +1,15 @@
 # CatGen-V3
 A game I made about Warrior cats, You can chat, hunt prey and host lan servers for basic Mp. This game is still in development so expect bugs as I use ai to do most of the coding then I debug it afterwards, A full release will be available sometime after the testing phase. Please report any bugs to me as soon as possible! Thanks! &lt;3
+
+---- HOW TO INSTALL! ----
+## 1. Install Python: Ensure you have Python 3.14+ installed. Make sure “Add Python to PATH” is checked.
+
+## 2. Run the Game:
+  On Windows: Double-click run.bat
+    The game will automatically, This means it will:
+      Create a .venv (virtual environment) to keep your system clean
+      Install all required dependencies (e.g., pygame-ce)
+      Verify asset integrity and check for updates from GitHub
+      Launch the game immediately—no manual setup or command line required
+
+!!! PLEASE NOTE: I PLAN TO STOP UPDATING THIS FEATURE AND SWITCH TO A ONLINE BASED SYSTEM AS UPDATING AND THINGS WILL BE EASIER. !!!
