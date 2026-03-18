@@ -55,7 +55,7 @@ This README contains important information about running the game, system requir
 
 ---
 
-## Latest Changes (Including Junie AI Updates)
+## Latest Changes 
 
 - Integrated **auto-config installer** for first-time setup  
 - Added `.venv` creation for isolated dependency management  
