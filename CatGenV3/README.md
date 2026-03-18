@@ -36,6 +36,7 @@ This README contains important information about running the game, system requir
      2. Install all required dependencies (e.g., `pygame-ce`)  
      3. Verify asset integrity and check for updates from GitHub  
      4. Launch the game immediately—no manual setup or command line required  
+     PLEASE NOTE: I PLAN TO STOP UPDATING THIS FEATURE AND SWITCH TO A ONLINE BASED SYSTEM AS UPDATING AND THINGS WILL BE EASIER.
 
 ---
 
